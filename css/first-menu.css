@@ -1,0 +1,44 @@
+.First-menu{
+    padding-top: 202px;
+    padding-left: 251px;
+    width: 1170.8px;
+    height: 550px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    box-sizing: border-box;
+}
+.about-us{
+    color: #EE4D47;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 40px; /* 166.667% */
+    letter-spacing: 2.4px;
+    padding-top: 190px;
+}
+.about-txt{
+    color: var(--text, #402B2B);
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 40px; /* 222.222% */
+    width: 470px;
+    height: 156px;
+    margin-top: 40px;
+}
+.photo-guy{
+    width: 575.114px;
+    height: 480px;
+}
+.text{
+    width: 570px;;
+    padding: 33px 55px;
+    background-color: rgba(252, 221, 212, 0.4) ;
+    color: var(--text, #402B2B);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px; /* 150% */
+    margin-top: 70px;
+    border-radius: 5px;
+    border-left:10px solid #ED4D47;  
+}

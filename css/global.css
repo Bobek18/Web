@@ -1,0 +1,10 @@
+body{
+    background-color: #FEF8F5;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 0;
+}
+body,*{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+}
